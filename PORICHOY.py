@@ -2,5 +2,4 @@
 
 import os
 import porichoy
-porichoy logging()
-import logging
+porichoy.loging()
